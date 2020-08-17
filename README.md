@@ -45,7 +45,7 @@ Ditto with the startAdvanced.html, which provides the ability to make a quiz fro
  * `questions` contains JavaScript files that describe different quiz question types.
  * `questionTypes.js` contains the locations of the available quiz question types.
  * `quiz.js` contains utility methods required to build a quiz.
- * `random.js` contains JavaScript for generating reproducable random numbers based on a given seed.
+ * `random.js` contains JavaScript for generating reproducible random numbers based on a given seed.
  * `utils.js` contains various JavaScript utility methods.
 
 
